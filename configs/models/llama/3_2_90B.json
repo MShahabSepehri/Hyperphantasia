@@ -1,0 +1,9 @@
+{
+    "model_base": null,
+    "top_p": null,
+    "num_beams": 1,
+    "temperature": 0,
+    "max_new_tokens": 2048,
+    "cache_dir": "/data/models/cache",
+    "model_id": "meta-llama/Llama-3.2-90B-Vision-Instruct"
+}

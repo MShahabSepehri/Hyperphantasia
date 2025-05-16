@@ -1,0 +1,6 @@
+{
+    "model_name": "Qwen/Qwen2.5-VL-32B-Instruct", 
+    "cache_dir": "/data/models/cache",
+    "temperature": 0,
+    "max_new_tokens": 2048
+}

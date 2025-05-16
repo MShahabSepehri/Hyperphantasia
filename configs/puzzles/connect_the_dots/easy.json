@@ -1,0 +1,21 @@
+{   
+    "puzzle": "connect_the_dots",
+    "params":{
+        "data_path": "./assets/connect_the_dots_data.json",
+        "minDistance":10,
+        "kernel_size":0,
+        "search_step":8,
+        "dist_tr":15,
+        "search_tr":50,
+        "dot_color":"black", 
+        "num_color":"red", 
+        "edge_color":"blue",
+        "fontsize":0, 
+        "dpi":300,
+        "r":10,
+        "b":5, 
+        "lw":1,
+        "id_length":5,
+        "difficulty":"E"
+    }
+}

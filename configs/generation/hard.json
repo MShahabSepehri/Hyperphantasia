@@ -1,0 +1,12 @@
+{   
+    "image_dir": "data/hard",
+    "image_format": "jpg", 
+    "save_dir": "data/hard",
+    "image_size": [384, 384],
+    "configs": {
+        "configs/puzzles/seven_seg/hard.json": 100,
+        "configs/puzzles/connect_the_dots/hard.json": 100,
+        "configs/puzzles/triangle_completion/hard.json": 100,
+        "configs/puzzles/ball_trajectory/hard.json": 100
+    }
+}

@@ -1,0 +1,12 @@
+{   
+    "image_dir": "data/medium",
+    "image_format": "jpg", 
+    "save_dir": "data/medium",
+    "image_size": [384, 384],
+    "configs": {
+        "configs/puzzles/seven_seg/medium.json": 100,
+        "configs/puzzles/connect_the_dots/medium.json": 100,
+        "configs/puzzles/triangle_completion/medium.json": 100,
+        "configs/puzzles/ball_trajectory/medium.json": 100
+    }
+}

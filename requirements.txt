@@ -1,0 +1,24 @@
+PyYAML
+datasets
+tqdm
+einops
+torch==2.6.0
+torchvision
+torchaudio
+transformers
+beautifulsoup4
+requests[socks]
+matplotlib
+accelerate
+numpy==1.26.4
+qwen-vl-utils
+openai
+dotenv
+google-generativeai
+anthropic
+https://github.com/Dao-AILab/flash-attention/releases/download/v2.7.4.post1/flash_attn-2.7.4.post1+cu12torch2.6cxx11abiFALSE-cp310-cp310-linux_x86_64.whl
+
+
+## for Molmo
+# transformers==4.48.2
+# tensorflow

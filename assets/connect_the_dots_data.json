@@ -1,0 +1,929 @@
+{
+    "0": {
+        "label": "kangaroo",
+        "image_path": "../clipart/kangaroo/clipart_160_000007.jpg",
+        "similar_labels": [
+            "monkey",
+            "dog",
+            "bear"
+        ]
+    },
+    "1": {
+        "label": "lobster",
+        "image_path": "../clipart/lobster/clipart_177_000062.jpg",
+        "similar_labels": [
+            "sea_turtle",
+            "snake",
+            "snail"
+        ]
+    },
+    "2": {
+        "label": "carrot",
+        "image_path": "../clipart/carrot/clipart_063_000052.jpg",
+        "similar_labels": [
+            "pineapple",
+            "pear",
+            "onion"
+        ]
+    },
+    "3": {
+        "label": "bear",
+        "image_path": "../clipart/bear/clipart_024_000055.jpg",
+        "similar_labels": [
+            "kangaroo",
+            "dog",
+            "lion"
+        ]
+    },
+    "4": {
+        "label": "elephant",
+        "image_path": "../clipart/elephant/clipart_104_000014.jpg",
+        "similar_labels": [
+            "camel",
+            "cow",
+            "rhinoceros"
+        ]
+    },
+    "5": {
+        "label": "chair",
+        "image_path": "../clipart/chair/clipart_069_000069.jpg",
+        "similar_labels": [
+            "lightning",
+            "tent",
+            "bed"
+        ]
+    },
+    "6": {
+        "label": "toothbrush",
+        "image_path": "../clipart/toothbrush/clipart_317_000086.jpg",
+        "similar_labels": [
+            "pliers",
+            "airplane",
+            "broom"
+        ]
+    },
+    "7": {
+        "label": "airplane",
+        "image_path": "../clipart/airplane/clipart_002_000020.jpg",
+        "similar_labels": [
+            "sailboat",
+            "train",
+            "submarine"
+        ]
+    },
+    "8": {
+        "label": "umbrella",
+        "image_path": "../clipart/umbrella/clipart_329_000137.jpg",
+        "similar_labels": [
+            "feather",
+            "leaf",
+            "tent"
+        ]
+    },
+    "9": {
+        "label": "snail",
+        "image_path": "../clipart/snail/clipart_269_000109.jpg",
+        "similar_labels": [
+            "sea_turtle",
+            "lobster",
+            "hedgehog"
+        ]
+    },
+    "10": {
+        "label": "syringe",
+        "image_path": "../clipart/syringe/clipart_301_000025.jpg",
+        "similar_labels": [
+            "toothbrush",
+            "marker",
+            "hourglass"
+        ]
+    },
+    "11": {
+        "label": "bed",
+        "image_path": "../clipart/bed/clipart_026_000001.jpg",
+        "similar_labels": [
+            "tent",
+            "chair",
+            "oven"
+        ]
+    },
+    "12": {
+        "label": "dog",
+        "image_path": "../clipart/dog/clipart_092_000002.jpg",
+        "similar_labels": [
+            "cat",
+            "monkey",
+            "bear"
+        ]
+    },
+    "13": {
+        "label": "cello",
+        "image_path": "../clipart/cello/clipart_067_000035.jpg",
+        "similar_labels": [
+            "toothbrush",
+            "harp",
+            "bed"
+        ]
+    },
+    "14": {
+        "label": "triangle",
+        "image_path": "../clipart/triangle/clipart_324_000085.jpg",
+        "similar_labels": [
+            "The_Eiffel_Tower",
+            "circle",
+            "star"
+        ]
+    },
+    "15": {
+        "label": "swan",
+        "image_path": "../clipart/swan/clipart_297_000230.jpg",
+        "similar_labels": [
+            "monkey",
+            "parrot",
+            "candle"
+        ]
+    },
+    "16": {
+        "label": "bulldozer",
+        "image_path": "../clipart/bulldozer/clipart_047_000080.jpg",
+        "similar_labels": [
+            "bus",
+            "train",
+            "pickup_truck"
+        ]
+    },
+    "17": {
+        "label": "pants",
+        "image_path": "../clipart/pants/clipart_210_000007.jpg",
+        "similar_labels": [
+            "sock",
+            "jacket",
+            "saxophone"
+        ]
+    },
+    "18": {
+        "label": "hedgehog",
+        "image_path": "../clipart/hedgehog/clipart_142_000013.jpg",
+        "similar_labels": [
+            "harp",
+            "squirrel",
+            "snail"
+        ]
+    },
+    "19": {
+        "label": "chandelier",
+        "image_path": "../clipart/chandelier/clipart_070_000001.jpg",
+        "similar_labels": [
+            "ceiling_fan",
+            "umbrella",
+            "tooth"
+        ]
+    },
+    "20": {
+        "label": "sock",
+        "image_path": "../clipart/sock/clipart_275_000164.jpg",
+        "similar_labels": [
+            "pants",
+            "stop_sign",
+            "jacket"
+        ]
+    },
+    "21": {
+        "label": "lightning",
+        "image_path": "../clipart/lightning/clipart_173_000151.jpg",
+        "similar_labels": [
+            "triangle",
+            "snake",
+            "star"
+        ]
+    },
+    "22": {
+        "label": "rhinoceros",
+        "image_path": "../clipart/rhinoceros/clipart_243_000003.jpg",
+        "similar_labels": [
+            "cow",
+            "elephant",
+            "camel"
+        ]
+    },
+    "23": {
+        "label": "jacket",
+        "image_path": "../clipart/jacket/clipart_158_000026.jpg",
+        "similar_labels": [
+            "cloud",
+            "pants",
+            "sock"
+        ]
+    },
+    "24": {
+        "label": "camel",
+        "image_path": "../clipart/camel/clipart_055_000066.jpg",
+        "similar_labels": [
+            "elephant",
+            "rhinoceros",
+            "cow"
+        ]
+    },
+    "25": {
+        "label": "onion",
+        "image_path": "../clipart/onion/clipart_203_000038.jpg",
+        "similar_labels": [
+            "pear",
+            "pineapple",
+            "carrot"
+        ]
+    },
+    "26": {
+        "label": "squirrel",
+        "image_path": "../clipart/squirrel/clipart_282_000189.jpg",
+        "similar_labels": [
+            "hedgehog",
+            "dog",
+            "tent"
+        ]
+    },
+    "27": {
+        "label": "pear",
+        "image_path": "../clipart/pear/clipart_216_000038.jpg",
+        "similar_labels": [
+            "pineapple",
+            "carrot",
+            "onion"
+        ]
+    },
+    "28": {
+        "label": "windmill",
+        "image_path": "../clipart/windmill/clipart_339_000014.jpg",
+        "similar_labels": [
+            "tent",
+            "train",
+            "The_Eiffel_Tower"
+        ]
+    },
+    "29": {
+        "label": "violin",
+        "image_path": "../clipart/violin/clipart_333_000003.jpg",
+        "similar_labels": [
+            "guitar",
+            "harp",
+            "ceiling_fan"
+        ]
+    },
+    "30": {
+        "label": "frog",
+        "image_path": "../clipart/frog/clipart_126_000108.jpg",
+        "similar_labels": [
+            "squirrel",
+            "snail",
+            "dog"
+        ]
+    },
+    "31": {
+        "label": "parrot",
+        "image_path": "../clipart/parrot/clipart_213_000047.jpg",
+        "similar_labels": [
+            "swan",
+            "butterfly",
+            "flamingo"
+        ]
+    },
+    "32": {
+        "label": "guitar",
+        "image_path": "../clipart/guitar/clipart_135_000025.jpg",
+        "similar_labels": [
+            "harp",
+            "violin",
+            "cello"
+        ]
+    },
+    "33": {
+        "label": "ceiling_fan",
+        "image_path": "../clipart/ceiling_fan/clipart_066_000031.jpg",
+        "similar_labels": [
+            "chandelier",
+            "umbrella",
+            "windmill"
+        ]
+    },
+    "34": {
+        "label": "tent",
+        "image_path": "../clipart/tent/clipart_308_000060.jpg",
+        "similar_labels": [
+            "bed",
+            "umbrella",
+            "chair"
+        ]
+    },
+    "35": {
+        "label": "skateboard",
+        "image_path": "../clipart/skateboard/clipart_264_000036.jpg",
+        "similar_labels": [
+            "motorbike",
+            "bus",
+            "pickup_truck"
+        ]
+    },
+    "36": {
+        "label": "school_bus",
+        "image_path": "../clipart/school_bus/clipart_252_000196.jpg",
+        "similar_labels": [
+            "bed",
+            "train",
+            "pickup_truck"
+        ]
+    },
+    "37": {
+        "label": "star",
+        "image_path": "../clipart/star/clipart_284_000111.jpg",
+        "similar_labels": [
+            "triangle",
+            "sun",
+            "circle"
+        ]
+    },
+    "38": {
+        "label": "bowtie",
+        "image_path": "../clipart/bowtie/clipart_039_000047.jpg",
+        "similar_labels": [
+            "moustache",
+            "boomerang",
+            "dragon"
+        ]
+    },
+    "39": {
+        "label": "rifle",
+        "image_path": "../clipart/rifle/clipart_244_000066.jpg",
+        "similar_labels": [
+            "sword",
+            "hockey_stick",
+            "cannon"
+        ]
+    },
+    "40": {
+        "label": "submarine",
+        "image_path": "../clipart/submarine/clipart_294_000133.jpg",
+        "similar_labels": [
+            "sailboat",
+            "bus",
+            "airplane"
+        ]
+    },
+    "41": {
+        "label": "pencil",
+        "image_path": "../clipart/pencil/clipart_218_000051.jpg",
+        "similar_labels": [
+            "toothbrush",
+            "broom",
+            "nail"
+        ]
+    },
+    "42": {
+        "label": "scissors",
+        "image_path": "../clipart/scissors/clipart_253_000021.jpg",
+        "similar_labels": [
+            "fork",
+            "pliers",
+            "toothbrush"
+        ]
+    },
+    "43": {
+        "label": "The_Eiffel_Tower",
+        "image_path": "../clipart/The_Eiffel_Tower/clipart_309_000042.jpg",
+        "similar_labels": [
+            "tent",
+            "triangle",
+            "windmill"
+        ]
+    },
+    "44": {
+        "label": "cow",
+        "image_path": "../clipart/cow/clipart_082_000046.jpg",
+        "similar_labels": [
+            "elephant",
+            "camel",
+            "rhinoceros"
+        ]
+    },
+    "45": {
+        "label": "tooth",
+        "image_path": "../clipart/tooth/clipart_316_000070.jpg",
+        "similar_labels": [
+            "mouth",
+            "foot",
+            "hand"
+        ]
+    },
+    "46": {
+        "label": "flamingo",
+        "image_path": "../clipart/flamingo/clipart_118_000149.jpg",
+        "similar_labels": [
+            "swan",
+            "butterfly",
+            "parrot"
+        ]
+    },
+    "47": {
+        "label": "giraffe",
+        "image_path": "../clipart/giraffe/clipart_130_000050.jpg",
+        "similar_labels": [
+            "rhinoceros",
+            "elephant",
+            "camel"
+        ]
+    },
+    "48": {
+        "label": "lion",
+        "image_path": "../clipart/lion/clipart_175_000018.jpg",
+        "similar_labels": [
+            "dog",
+            "monkey",
+            "bear"
+        ]
+    },
+    "49": {
+        "label": "mouth",
+        "image_path": "../clipart/mouth/clipart_194_000105.jpg",
+        "similar_labels": [
+            "face",
+            "tooth",
+            "hand"
+        ]
+    },
+    "50": {
+        "label": "monkey",
+        "image_path": "../clipart/monkey/clipart_187_000075.jpg",
+        "similar_labels": [
+            "kangaroo",
+            "dog",
+            "bear"
+        ]
+    },
+    "51": {
+        "label": "boomerang",
+        "image_path": "../clipart/boomerang/clipart_037_000049.jpg",
+        "similar_labels": [
+            "sword",
+            "rake",
+            "broom"
+        ]
+    },
+    "52": {
+        "label": "butterfly",
+        "image_path": "../clipart/butterfly/clipart_050_000147.jpg",
+        "similar_labels": [
+            "parrot",
+            "swan",
+            "flamingo"
+        ]
+    },
+    "53": {
+        "label": "broom",
+        "image_path": "../clipart/broom/clipart_045_000063.jpg",
+        "similar_labels": [
+            "toothbrush",
+            "rake",
+            "fork"
+        ]
+    },
+    "54": {
+        "label": "sun",
+        "image_path": "../clipart/sun/clipart_296_000051.jpg",
+        "similar_labels": [
+            "star",
+            "circle",
+            "lightning"
+        ]
+    },
+    "55": {
+        "label": "sword",
+        "image_path": "../clipart/sword/clipart_300_000045.jpg",
+        "similar_labels": [
+            "rifle",
+            "broom",
+            "hockey_stick"
+        ]
+    },
+    "56": {
+        "label": "eyeglasses",
+        "image_path": "../clipart/eyeglasses/clipart_108_000072.jpg",
+        "similar_labels": [
+            "moustache",
+            "face",
+            "bowtie"
+        ]
+    },
+    "57": {
+        "label": "oven",
+        "image_path": "../clipart/oven/clipart_204_000011.jpg",
+        "similar_labels": [
+            "tent",
+            "chair",
+            "chandelier"
+        ]
+    },
+    "58": {
+        "label": "harp",
+        "image_path": "../clipart/harp/clipart_139_000144.jpg",
+        "similar_labels": [
+            "violin",
+            "guitar",
+            "cello"
+        ]
+    },
+    "59": {
+        "label": "whale",
+        "image_path": "../clipart/whale/clipart_337_000122.jpg",
+        "similar_labels": [
+            "crocodile",
+            "sea_turtle",
+            "lobster"
+        ]
+    },
+    "60": {
+        "label": "pickup_truck",
+        "image_path": "../clipart/pickup_truck/clipart_221_000007.jpg",
+        "similar_labels": [
+            "bulldozer",
+            "chair",
+            "bus"
+        ]
+    },
+    "61": {
+        "label": "key",
+        "image_path": "../clipart/key/clipart_161_000055.jpg",
+        "similar_labels": [
+            "pliers",
+            "nail",
+            "fork"
+        ]
+    },
+    "62": {
+        "label": "crocodile",
+        "image_path": "../clipart/crocodile/clipart_085_000053.jpg",
+        "similar_labels": [
+            "chandelier",
+            "dragon",
+            "snake"
+        ]
+    },
+    "63": {
+        "label": "wine_bottle",
+        "image_path": "../clipart/wine_bottle/clipart_340_000127.jpg",
+        "similar_labels": [
+            "marker",
+            "sword",
+            "vase"
+        ]
+    },
+    "64": {
+        "label": "cannon",
+        "image_path": "../clipart/cannon/clipart_060_000017.jpg",
+        "similar_labels": [
+            "rifle",
+            "boomerang",
+            "sword"
+        ]
+    },
+    "65": {
+        "label": "foot",
+        "image_path": "../clipart/foot/clipart_124_000030.jpg",
+        "similar_labels": [
+            "mouth",
+            "face",
+            "hand"
+        ]
+    },
+    "66": {
+        "label": "snake",
+        "image_path": "../clipart/snake/clipart_270_000117.jpg",
+        "similar_labels": [
+            "lightning",
+            "crocodile",
+            "lobster"
+        ]
+    },
+    "67": {
+        "label": "bus",
+        "image_path": "../clipart/bus/clipart_048_000035.jpg",
+        "similar_labels": [
+            "train",
+            "pickup_truck",
+            "submarine"
+        ]
+    },
+    "68": {
+        "label": "pliers",
+        "image_path": "../clipart/pliers/clipart_227_000004.jpg",
+        "similar_labels": [
+            "fork",
+            "toothbrush",
+            "scissors"
+        ]
+    },
+    "69": {
+        "label": "fork",
+        "image_path": "../clipart/fork/clipart_125_000091.jpg",
+        "similar_labels": [
+            "scissors",
+            "toothbrush",
+            "pliers"
+        ]
+    },
+    "70": {
+        "label": "trombone",
+        "image_path": "../clipart/trombone/clipart_325_000084.jpg",
+        "similar_labels": [
+            "violin",
+            "rake",
+            "saxophone"
+        ]
+    },
+    "71": {
+        "label": "ant",
+        "image_path": "../clipart/ant/clipart_007_000048.jpg",
+        "similar_labels": [
+            "butterfly",
+            "lobster",
+            "snail"
+        ]
+    },
+    "72": {
+        "label": "circle",
+        "image_path": "../clipart/circle/clipart_072_000172.jpg",
+        "similar_labels": [
+            "triangle",
+            "star",
+            "pickup_truck"
+        ]
+    },
+    "73": {
+        "label": "stop_sign",
+        "image_path": "../clipart/stop_sign/clipart_289_000036.jpg",
+        "similar_labels": [
+            "triangle",
+            "book",
+            "circle"
+        ]
+    },
+    "74": {
+        "label": "train",
+        "image_path": "../clipart/train/clipart_322_000036.jpg",
+        "similar_labels": [
+            "bus",
+            "school_bus",
+            "pickup_truck"
+        ]
+    },
+    "75": {
+        "label": "leaf",
+        "image_path": "../clipart/leaf/clipart_168_000005.jpg",
+        "similar_labels": [
+            "stethoscope",
+            "umbrella",
+            "tent"
+        ]
+    },
+    "76": {
+        "label": "stethoscope",
+        "image_path": "../clipart/stethoscope/clipart_287_000249.jpg",
+        "similar_labels": [
+            "syringe",
+            "marker",
+            "toothbrush"
+        ]
+    },
+    "77": {
+        "label": "book",
+        "image_path": "../clipart/book/clipart_036_000131.jpg",
+        "similar_labels": [
+            "stop_sign",
+            "alarm_clock",
+            "pencil"
+        ]
+    },
+    "78": {
+        "label": "alarm_clock",
+        "image_path": "../clipart/alarm_clock/clipart_003_000051.jpg",
+        "similar_labels": [
+            "face",
+            "book",
+            "hourglass"
+        ]
+    },
+    "79": {
+        "label": "hourglass",
+        "image_path": "../clipart/hourglass/clipart_153_000054.jpg",
+        "similar_labels": [
+            "book",
+            "alarm_clock",
+            "vase"
+        ]
+    },
+    "80": {
+        "label": "cat",
+        "image_path": "../clipart/cat/clipart_065_000038.jpg",
+        "similar_labels": [
+            "monkey",
+            "lion",
+            "dog"
+        ]
+    },
+    "81": {
+        "label": "rake",
+        "image_path": "../clipart/rake/clipart_241_000089.jpg",
+        "similar_labels": [
+            "broom",
+            "fork",
+            "toothbrush"
+        ]
+    },
+    "82": {
+        "label": "cloud",
+        "image_path": "../clipart/cloud/clipart_075_000087.jpg",
+        "similar_labels": [
+            "sun",
+            "umbrella",
+            "leaf"
+        ]
+    },
+    "83": {
+        "label": "campfire",
+        "image_path": "../clipart/campfire/clipart_058_000036.jpg",
+        "similar_labels": [
+            "sun",
+            "candle",
+            "leaf"
+        ]
+    },
+    "84": {
+        "label": "ice_cream",
+        "image_path": "../clipart/ice_cream/clipart_157_000060.jpg",
+        "similar_labels": [
+            "carrot",
+            "onion",
+            "pineapple"
+        ]
+    },
+    "85": {
+        "label": "moustache",
+        "image_path": "../clipart/moustache/clipart_193_000085.jpg",
+        "similar_labels": [
+            "eyeglasses",
+            "circle",
+            "face"
+        ]
+    },
+    "86": {
+        "label": "vase",
+        "image_path": "../clipart/vase/clipart_332_000015.jpg",
+        "similar_labels": [
+            "candle",
+            "hourglass",
+            "wine_bottle"
+        ]
+    },
+    "87": {
+        "label": "candle",
+        "image_path": "../clipart/candle/clipart_059_000092.jpg",
+        "similar_labels": [
+            "campfire",
+            "wine_bottle",
+            "vase"
+        ]
+    },
+    "88": {
+        "label": "sea_turtle",
+        "image_path": "../clipart/sea_turtle/clipart_256_000184.jpg",
+        "similar_labels": [
+            "lobster",
+            "snail",
+            "whale"
+        ]
+    },
+    "89": {
+        "label": "dragon",
+        "image_path": "../clipart/dragon/clipart_096_000035.jpg",
+        "similar_labels": [
+            "crocodile",
+            "snake",
+            "hedgehog"
+        ]
+    },
+    "90": {
+        "label": "marker",
+        "image_path": "../clipart/marker/clipart_181_000041.jpg",
+        "similar_labels": [
+            "syringe",
+            "snail",
+            "toothbrush"
+        ]
+    },
+    "91": {
+        "label": "trumpet",
+        "image_path": "../clipart/trumpet/clipart_327_000023.jpg",
+        "similar_labels": [
+            "saxophone",
+            "violin",
+            "harp"
+        ]
+    },
+    "92": {
+        "label": "face",
+        "image_path": "../clipart/face/clipart_109_000017.jpg",
+        "similar_labels": [
+            "eyeglasses",
+            "hand",
+            "mouth"
+        ]
+    },
+    "93": {
+        "label": "pineapple",
+        "image_path": "../clipart/pineapple/clipart_225_000027.jpg",
+        "similar_labels": [
+            "onion",
+            "carrot",
+            "pear"
+        ]
+    },
+    "94": {
+        "label": "motorbike",
+        "image_path": "../clipart/motorbike/clipart_190_000023.jpg",
+        "similar_labels": [
+            "train",
+            "pickup_truck",
+            "skateboard"
+        ]
+    },
+    "95": {
+        "label": "hockey_stick",
+        "image_path": "../clipart/hockey_stick/clipart_147_000108.jpg",
+        "similar_labels": [
+            "boomerang",
+            "sword",
+            "rifle"
+        ]
+    },
+    "96": {
+        "label": "sailboat",
+        "image_path": "../clipart/sailboat/clipart_248_000012.jpg",
+        "similar_labels": [
+            "train",
+            "airplane",
+            "submarine"
+        ]
+    },
+    "97": {
+        "label": "nail",
+        "image_path": "../clipart/nail/clipart_197_000025.jpg",
+        "similar_labels": [
+            "pencil",
+            "key",
+            "marker"
+        ]
+    },
+    "98": {
+        "label": "flying_saucer",
+        "image_path": "../clipart/flying_saucer/clipart_123_000014.jpg",
+        "similar_labels": [
+            "submarine",
+            "sailboat",
+            "airplane"
+        ]
+    },
+    "99": {
+        "label": "dolphin",
+        "image_path": "../clipart/dolphin/clipart_093_000008.jpg",
+        "similar_labels": [
+            "sea_turtle",
+            "lobster",
+            "cat"
+        ]
+    },
+    "100": {
+        "label": "feather",
+        "image_path": "../clipart/feather/clipart_111_000242.jpg",
+        "similar_labels": [
+            "snake",
+            "umbrella",
+            "parrot"
+        ]
+    },
+    "101": {
+        "label": "hand",
+        "image_path": "../clipart/hand/clipart_138_000093.jpg",
+        "similar_labels": [
+            "tooth",
+            "face",
+            "foot"
+        ]
+    },
+    "102": {
+        "label": "saxophone",
+        "image_path": "../clipart/saxophone/clipart_251_000101.jpg",
+        "similar_labels": [
+            "trombone",
+            "violin",
+            "trumpet"
+        ]
+    }
+}

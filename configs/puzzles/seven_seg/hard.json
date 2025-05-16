@@ -1,0 +1,16 @@
+{   
+    "puzzle": "seven_seg",
+    "params":{
+        "n": 5,
+        "sort_edges": true, 
+        "pad_inches": 0.2, 
+        "r": 0.03, 
+        "b": 0.1, 
+        "dot_color": "black", 
+        "num_color": "red", 
+        "fontsize": 10, 
+        "quality": null,
+        "ordered": false,
+        "difficulty": "H"
+    }
+}

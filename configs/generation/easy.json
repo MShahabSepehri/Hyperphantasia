@@ -1,0 +1,12 @@
+{   
+    "image_dir": "data/easy",
+    "image_format": "jpg", 
+    "save_dir": "data/easy",
+    "image_size": [384, 384],
+    "configs": {
+        "configs/puzzles/seven_seg/easy.json": 100,
+        "configs/puzzles/connect_the_dots/easy.json": 100,
+        "configs/puzzles/triangle_completion/easy.json": 100,
+        "configs/puzzles/ball_trajectory/easy.json": 100
+    }
+}

@@ -1,0 +1,10 @@
+{   
+    "puzzle": "ball_trajectory",
+    "params":{
+        "dot_color": "black", 
+        "line_color": "blue", 
+        "dpi": 64,
+        "revealed_trajectory_percentage": 0.4,
+        "difficulty": "H"
+    }
+}

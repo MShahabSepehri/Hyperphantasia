@@ -1,0 +1,7 @@
+{
+    "temperature": 0,
+    "deployment_name": "o4-mini-2025-04-16",
+    "max_tokens": 2048,
+    "timeout": 120,
+    "max_retry": 5
+}

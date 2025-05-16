@@ -1,0 +1,8 @@
+{   
+    "num_beams": 1,
+    "max_new_tokens": 2048,
+    "top_p": null,
+    "temperature": 0,
+    "model_id": "allenai/Molmo-72B-0924",
+    "cache_dir": "/data/models/cache"
+}

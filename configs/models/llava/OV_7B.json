@@ -1,0 +1,6 @@
+{
+    "model": "llava-hf/llava-onevision-qwen2-7b-ov-chat-hf",
+    "cache_dir": "/data/models/cache",
+    "temperature": 0,
+    "max_new_tokens": 2048
+}
