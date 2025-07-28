@@ -193,7 +193,6 @@ class BaseAnsweringModel():
     
     def generate_prompt(self, sample):
         image = ('image', f"{self.image_dir}/{sample.get('Image_file')}")
-        image = ('image', f"{self.image_dir}/{sample.get('Pseudo_solution_file')}")
         question = sample.get('Question') + self.formatting_prompt
         question = ('text', question)
         if self.image_first:
