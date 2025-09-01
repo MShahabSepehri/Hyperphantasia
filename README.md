@@ -3,6 +3,13 @@
 </p>
 
 <h1 align="center">A Benchmark for Evaluating the Mental Visualization Capabilities of Multimodal LLMs</h1>
+<h3 align="center">Mohammad Shahab Sepehri, Berk Tinaz, Zalan Fabian, Mahdi Soltanolkotabi</h3>
+
+<p align="center">
+| 🤗 <a href="https://huggingface.co/datasets/shahab7899/Hyperphantasia">HuggingFace</a> | 
+<!-- 📄 <a href="https://arxiv.org/abs/2409.15477">Paper</a> | -->
+</p> 
+
 
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"/></a>
