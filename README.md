@@ -1,5 +1,5 @@
 <p align="center">
- <img src="assets/banner.png" alt="drawing" width="700" style="float: center;"/> 
+ <img src="assets/logo_dark.png" alt="drawing" width="700" style="float: center;"/> 
 </p>
 
 <h1 align="center">A Benchmark for Evaluating the Mental Visualization Capabilities of Multimodal LLMs</h1>
