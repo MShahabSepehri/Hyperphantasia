@@ -1,6 +1,7 @@
 import os
 import re
 import time
+import uuid
 from datasets import load_dataset
 from tqdm import tqdm
 from utils import io_tools
@@ -86,34 +87,41 @@ class BaseAnsweringModel():
                 answers[name] = result_dict
                 io_tools.save_json(answers, f'{save_path}/{self.name}answers.json')
             else:
-                self.save_temp_images(sample)
+                id = self.save_temp_images(sample)
                 result_dict = self.sample_eval(sample)
                 answers[name] = result_dict
                 io_tools.save_json(answers, f'{save_path}/{self.name}answers.json')
             results = self.update_results(results, name, result_dict)
             io_tools.save_json(results, f'{save_path}/{self.name}results.json')
-        self.delete_temp_images()
+            self.delete_temp_images(id)
+        self.delete_temp_images(source=True)
         self.print_results(results, precision=precision)
         io_tools.save_json(results, f'{save_path}/{self.name}results.json')
 
     def save_temp_images(self, sample):
+        random_id = uuid.uuid4()
         if not os.path.exists('tmp/'):
             os.makedirs('tmp/')
         image = sample.get('Image_file')
-        image.save('tmp/eval_tmp_image.jpg')
+        image.save(f'tmp/{random_id}_eval_tmp_image.jpg')
         pseudo_solution = sample.get('Pseudo_solution_file')
-        pseudo_solution.save('tmp/eval_tmp_sol_image.jpg')
-        sample['Image_file'] = 'eval_tmp_image.jpg'
-        sample['Pseudo_solution_file'] = 'eval_tmp_sol_image.jpg'
+        pseudo_solution.save(f'tmp/{random_id}_eval_tmp_sol_image.jpg')
+        sample['Image_file'] = f'eval_tmp_image.jpg'
+        sample['Pseudo_solution_file'] = f'{random_id}_eval_tmp_sol_image.jpg'
+        return random_id
     
     @staticmethod
-    def delete_temp_images():
-        if os.path.exists('tmp/eval_tmp_image.jpg'):
-            os.remove('tmp/eval_tmp_image.jpg')
-        if os.path.exists('tmp/eval_tmp_sol_image.jpg'):
-            os.remove('tmp/eval_tmp_sol_image.jpg')
-        if os.path.exists('tmp/'):
-            os.rmdir('tmp/')
+    def delete_temp_images(id=None, source=False):
+        if id is not None:
+            if os.path.exists(f'tmp/{id}_eval_tmp_image.jpg'):
+                os.remove(f'tmp/{id}_eval_tmp_image.jpg')
+            if os.path.exists(f'tmp/{id}_eval_tmp_sol_image.jpg'):
+                os.remove(f'tmp/{id}_eval_tmp_sol_image.jpg')
+        if source:
+            for file in os.listdir('tmp/'):
+                os.remove(f'tmp/{file}')
+            if os.path.exists('tmp/'):
+                os.rmdir('tmp/')
 
     def local_evaluate(self, resume_path, save_dir, precision=2):
         self.set_dataset()
