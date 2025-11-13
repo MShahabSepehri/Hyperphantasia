@@ -106,7 +106,9 @@ class BaseAnsweringModel():
         image.save(f'tmp/{random_id}_eval_tmp_image.jpg')
         pseudo_solution = sample.get('Pseudo_solution_file')
         pseudo_solution.save(f'tmp/{random_id}_eval_tmp_sol_image.jpg')
-        sample['Image_file'] = f'eval_tmp_image.jpg'
+        sample['Image_file'] = f'{random_id}_eval_tmp_image.jpg'
+        #### Test
+        sample['Image_file'] = f'{random_id}_eval_tmp_sol_image.jpg'
         sample['Pseudo_solution_file'] = f'{random_id}_eval_tmp_sol_image.jpg'
         return random_id
     
