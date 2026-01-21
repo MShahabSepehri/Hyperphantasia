@@ -40,6 +40,7 @@ Hyperphantasia has three levels of difficulty to evaluate the extent and general
   * [Usage](#-usage)
     * [Evaluation](#evaluation)
     * [Arguments](#arguments)
+  * [Acknowledgement](#acknowledgement)
 
 ## Dataset
 <p align="justify" > 
@@ -136,3 +137,5 @@ The code automatically downloads the data from HuggingFace, and the results will
 * `dataset_name` (default: the last sub-directory in `dataset_path`): Used in the name of result files.
 * `device` (default: `cuda`): You can use `cuda`, `cpu`, or `auto` (for multi-GPU inference).
 
+## Acknowledgement
+We would like to thank Microsoft for an Accelerating Foundation Models Research grant that provided the OpenAI credits enabling this work. This research was also in part supported by AWS credits through an Amazon Faculty Research Award and a NAIRR Pilot Award. M. Soltanolkotabi and MS. Sepehri were supported by the USC–Capital One Center for Responsible AI and Decision Making in Finance (CREDIF) Fellowship. M. Soltanolkotabi is also supported by the Packard Fellowship in Science and Engineering, a Sloan Research Fellowship in Mathematics, an NSF-CAREER under award \#1846369, DARPA FastNICS program, and NSF-CIF awards \#1813877 and \#2008443. and NIH DP2LM014564-01. 
