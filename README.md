@@ -40,6 +40,7 @@ Hyperphantasia has three levels of difficulty to evaluate the extent and general
     * [Evaluation](#evaluation)
     * [Arguments](#arguments)
   * [Acknowledgement](#acknowledgement)
+  * [Citation](#-citation)
 
 ## Dataset
 <p align="justify" > 
