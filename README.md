@@ -138,3 +138,19 @@ The code automatically downloads the data from HuggingFace, and the results will
 
 ## Acknowledgement
 We would like to thank Microsoft for an Accelerating Foundation Models Research grant that provided the OpenAI credits enabling this work. This research was also in part supported by AWS credits through an Amazon Faculty Research Award and a NAIRR Pilot Award. M. Soltanolkotabi and MS. Sepehri were supported by the USC–Capital One Center for Responsible AI and Decision Making in Finance (CREDIF) Fellowship. M. Soltanolkotabi is also supported by the Packard Fellowship in Science and Engineering, a Sloan Research Fellowship in Mathematics, an NSF-CAREER under award \#1846369, DARPA FastNICS program, and NSF-CIF awards \#1813877 and \#2008443. and NIH DP2LM014564-01. 
+
+
+## 📌 Citation
+
+If you use this code or our dataset, please cite our [paper](https://arxiv.org/abs/2507.11932v2).
+
+```bibtex
+@inproceedings{
+  sepehri2025hyperphantasia,
+  title={Hyperphantasia: A Benchmark for Evaluating the Mental Visualization Capabilities of Multimodal {LLM}s},
+  author={Mohammad Shahab Sepehri and Berk Tinaz and Zalan Fabian and Mahdi Soltanolkotabi},
+  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
+  year={2025},
+  url={https://openreview.net/forum?id=NBU5IJGhCf}
+}
+```
