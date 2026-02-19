@@ -7,9 +7,8 @@
 
 <p align="center">
 | 🤗 <a href="https://huggingface.co/datasets/shahab7899/Hyperphantasia">HuggingFace</a> | 
-<!-- 📄 <a href="https://arxiv.org/abs/2409.15477">Paper</a> | -->
+📄 <a href="https://openreview.net/pdf?id=NBU5IJGhCf">Paper</a> |
 </p> 
-
 
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"/></a>
